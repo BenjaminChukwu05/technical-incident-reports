@@ -1,0 +1,37 @@
+# Raw diagnostic data and operating-system artifacts
+*.log
+*.ipsw
+*.plist
+*.db
+*.db-shm
+*.db-wal
+*.dmp
+*.etl
+
+# Archives/backups: never version-control device data
+*.zip
+*.7z
+*.tar
+*.gz
+*.bak
+*.backup
+*.mobilebackup
+/backups/
+/Backups/
+/evidence/
+/raw-evidence/
+
+# Common secrets and authentication material
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+*.kdbx
+
+# Local editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
