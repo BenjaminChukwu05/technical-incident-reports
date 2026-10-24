@@ -7,6 +7,7 @@ A collection of evidence-based troubleshooting and recovery case studies. Each r
 | Date | Incident | Outcome |
 | --- | --- | --- |
 | 2026-10-23–24 | [iPhone 12: iOS 27.0.1 recovery and encrypted backup restoration](incidents/2026-10-23-iphone-12-ios-recovery/README.md) | Device operational; two encrypted backups archived externally, with copy results and targeted integrity checks verified |
+| 2026-10-24 | [Windows 11: returning to a native workflow](incidents/2026-10-24-windows-native-workflow/README.md) | Native shortcuts restored; unnecessary AutoHotkey workflow, PowerToys and Fedora WSL environment retired |
 
 ## Documentation principles
 
