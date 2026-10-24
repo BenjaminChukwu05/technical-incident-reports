@@ -142,7 +142,7 @@ The copy used `robocopy` options `/E /Z /R:2 /W:5 /XJ /FFT /COPY:DAT /DCOPY:DAT 
 - [x] Compare archived backup files and selected metadata hashes
 - [ ] Periodically test a full restore on a suitable device or follow Apple's supported backup-validation procedure where feasible
 - [ ] Maintain an additional backup on another independent physical device
-- [ ] Review this report for public release before changing repository visibility
+- [x] Review this report for public release before changing repository visibility
 
 ## Privacy note
 
