@@ -9,6 +9,7 @@ A collection of evidence-based troubleshooting and recovery case studies. Each r
 | 2026-10-23–24 | [iPhone 12: iOS 27.0.1 recovery and encrypted backup restoration](incidents/2026-10-23-iphone-12-ios-recovery/README.md) | Device operational; two encrypted backups archived externally, with copy results and targeted integrity checks verified |
 | 2026-10-24 | [Fedora: restoring SideStore and Aidoku after iPhone recovery](incidents/2026-10-24-fedora-ios-sideload-recovery/README.md) | SideStore installed/refreshed; Aidoku reinstalled with previous reading library and progress preserved; GitHub release download bottleneck isolated |
 | 2026-10-24 | [Windows 11: returning to a native workflow](incidents/2026-10-24-windows-native-workflow/README.md) | Native shortcuts restored; unnecessary AutoHotkey workflow, PowerToys and Fedora WSL environment retired |
+| 2026-10-29 | [ThinkPad: restoring Fedora/Windows Secure Boot and validating Ventoy](incidents/2026-10-29-secure-boot-dualboot-ventoy/README.md) | Fedora and Windows Secure Boot verified; Ventoy 1.1.18 working with tested live media except Omarchy |
 
 ## Documentation principles
 
